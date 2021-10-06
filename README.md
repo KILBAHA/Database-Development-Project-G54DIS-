@@ -1,4 +1,4 @@
-Submission for an undergraduate project to develop a School enrolment system, building a HTML website that connected to an SQL server via PHP.
+Submission for an undergraduate project to develop a Student Management System, building a HTML website that connected to an SQL server via PHP.
 
 How to use this repo:
 
