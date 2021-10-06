@@ -1,6 +1,6 @@
 Submission for an undergraduate project to develop a School enrolment system, building a HTML website that connected to an SQL server via PHP.
 
-How to use:
+How to use this repo:
 
 The PHP/HTML scripts for the Student Management system can be accessed from the Student Management System Folder
 
